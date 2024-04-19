@@ -2,6 +2,5 @@
 name = "setuptools_test"
 version = "0.0.1"
 dependencies = [
-    "requests",
-    'importlib-metadata; python_version<"3.10"',
+    "requests"
 ]
